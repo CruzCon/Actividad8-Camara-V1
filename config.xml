@@ -14,7 +14,8 @@
   <plugin name="cordova-plugin-dialogs"/>
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-device-motion"/>
-  <plugin name="org.apache.cordova.camera"/>
+  <plugin name="cordova-plugin-camera"/>
+
   <access origin="*" />
   <allow-intent href="http://*/*" />
   <allow-intent href="https://*/*" />
