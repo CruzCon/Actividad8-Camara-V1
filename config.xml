@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.camera1" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" 
   xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Acelerometro en PhoneGap
+  <name>Camara en PhoneGap V!
 </name>
   <description>
-      Esta es una app de PhoneGap A7-02.
+      Esta es una app de PhoneGap Camara
   </description>
   <author  href="http://cordova.io">
     
